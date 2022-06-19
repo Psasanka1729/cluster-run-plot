@@ -1,0 +1,1 @@
+energy vs noise with L=6 with noise in Rz and Hadamard for eps = 0 to 0.1 with density of 400.
